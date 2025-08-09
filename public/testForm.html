@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Test JSON Webhook</title>
+</head>
+<body>
+  <h2>Test JSON Webhook</h2>
+  <form id="webhookForm">
+    <label>Symbol: <input type="text" name="symbol" value="STB" required></label><br><br>
+    <label>Action:
+      <select name="action">
+        <option value="buy">Buy</option>
+        <option value="sell">Sell</option>
+      </select>
+    </label><br><br>
+    <label>Volume: <input type="number" name="volume" value="2" required></label><br><br>
+    <label>Price: <input type="number" name="price" step="0.01" value="25.5" required></label><br><br>
+    <label>Order Type:
+      <select name="orderType">
+        <option value="LO">LO</option>
+        <option value="MP">MP</option>
+        <option value="MTL">MTL</option>
+      </select>
+    </label><br><br>
+    <label>Loan Package ID: <input type="number" name="loanPackageId" value="12345"></label><br><br>
+    <br><br>
+    <button type="submit">Tạo lệnh</button>
+  </form>
+
+  <script>
+    document.getElementById('webhookForm').addEventListener('submit', async function(e) {
+      e.preventDefault();
+
+      const formData = new FormData(e.target);
+      const jsonData = {};
+
+      formData.forEach((value, key) => {
+        jsonData[key] = value;
+      });
+
+      try {
+        const response = await fetch('https://localhost:3000/webhook', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify(jsonData)
+        });
+
+        const result = await response.text();
+        alert("Response: " + result);
+      } catch (err) {
+        alert("Error: " + err);
+      }
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login information</title>
+</head>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        color: #333;
+    }
+    table {
+        width: 100%;
+        margin: 20px 10px;
+        border-collapse: collapse;
+    }
+    th, td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+    }
+    td {
+        word-break: break-all;
+    }
+    th {
+        background-color: #f2f2f2;
+    }
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+    tr:hover {
+        background-color: #f1f1f1;
+    }
+    p {
+        text-align: center;
+        font-size: 1.2em;
+        margin-top: 20px;
+    }
+</style>
+<body>
+    <!-- print existingToken -->
+    <div style="text-align: center; margin-top: 50px;">
+        <table style="margin: 0 auto; border-collapse: collapse; width: 100%;">
+            <thead>
+                <tr>
+                    <th style="border: 1px solid #ddd; padding: 8px; width: 100px;">Key</th>
+                    <th style="border: 1px solid #ddd; padding: 8px;">Value</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="border: 1px solid #ddd; padding: 8px;">jwt</td>
+                    <td style="border: 1px solid #ddd; padding: 8px;"><%= existingToken.jwt %></td>
+                </tr>
+                <tr>
+                    <td style="border: 1px solid #ddd; padding: 8px;">trading_token</td>
+                    <td style="border: 1px solid #ddd; padding: 8px;"><%= existingToken.trading_token %></td>
+                </tr>
+                <tr>
+                    <td style="border: 1px solid #ddd; padding: 8px;">expires_at</td>
+                    <td style="border: 1px solid #ddd; padding: 8px;"><%= existingToken.expires_at %></td>
+                </tr>
+            </tbody>
+        </table>
+        <p style="margin-top: 20px;">You are already logged in.</p>
+        <a href="/logout" style="color: blue; text-decoration: underline;">Logout</a>
+    </div>
+</body>
+</html>

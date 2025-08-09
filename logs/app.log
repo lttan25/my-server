@@ -1,0 +1,200 @@
+[2025-08-07T00:10:42.616] [INFO] server - 🚀 HTTPS Server running at https://localhost:3000
+[2025-08-07T00:10:53.188] [INFO] http - ::1 - - "GET /login HTTP/1.1" 200 7971 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:10:53.247] [ERROR] http - ::1 - - "GET /favicon.ico HTTP/1.1" 404 150 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:11:40.148] [INFO] database - JWT saved successfully for session: be19a6372891fe2f9caf2a29076ead8b
+[2025-08-07T00:11:40.151] [INFO] http - ::1 - - "POST /auth/login HTTP/1.1" 200 63 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:11:47.538] [INFO] database - Trading token saved successfully for session: be19a6372891fe2f9caf2a29076ead8b
+[2025-08-07T00:11:47.541] [INFO] http - ::1 - - "POST /auth/verify-otp HTTP/1.1" 200 63 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:11:50.562] [INFO] http - ::1 - - "GET /login HTTP/1.1" 200 1662 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:13:50.089] [INFO] server - 🚀 HTTPS Server running at https://localhost:3000
+[2025-08-07T00:13:52.032] [INFO] http - ::1 - - "GET /login HTTP/1.1" 200 2412 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:14:05.104] [ERROR] http - ::1 - - "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 187 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:15:26.392] [INFO] server - 🚀 HTTPS Server running at https://localhost:3000
+[2025-08-07T00:15:28.716] [INFO] http - ::1 - - "GET /login HTTP/1.1" 200 3038 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:15:28.729] [ERROR] http - ::1 - - "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 187 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:16:20.323] [INFO] server - 🚀 HTTPS Server running at https://localhost:3000
+[2025-08-07T00:16:21.263] [INFO] http - ::1 - - "GET /login HTTP/1.1" 200 3071 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:16:21.281] [ERROR] http - ::1 - - "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 187 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:17:37.594] [INFO] server - 🚀 HTTPS Server running at https://localhost:3000
+[2025-08-07T00:17:38.516] [INFO] http - ::1 - - "GET /login HTTP/1.1" 200 3088 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:17:38.531] [ERROR] http - ::1 - - "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 187 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:17:49.747] [INFO] server - 🚀 HTTPS Server running at https://localhost:3000
+[2025-08-07T00:17:50.720] [INFO] http - ::1 - - "GET /login HTTP/1.1" 200 3089 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:17:50.736] [ERROR] http - ::1 - - "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 187 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:19:05.682] [INFO] http - ::1 - - "GET /login HTTP/1.1" 200 3089 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:19:05.706] [ERROR] http - ::1 - - "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 187 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:19:24.770] [INFO] server - 🚀 HTTPS Server running at https://localhost:3000
+[2025-08-07T00:19:32.345] [INFO] http - ::1 - - "GET /login HTTP/1.1" 200 3103 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:19:32.404] [ERROR] http - ::1 - - "GET /favicon.ico HTTP/1.1" 404 150 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:25:20.447] [ERROR] webhook-handler - Error placing order: tokenService.getLatestToken is not a function
+[2025-08-07T00:25:20.449] [ERROR] http - ::1 - - "POST /webhook HTTP/1.1" 500 19 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:29:23.404] [ERROR] webhook-handler - Error placing order: tokenService.getLatestToken is not a function
+[2025-08-07T00:29:23.405] [ERROR] http - ::1 - - "POST /webhook HTTP/1.1" 500 19 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:32:22.631] [INFO] server - 🚀 HTTPS Server running at https://localhost:3000
+[2025-08-07T00:32:26.355] [WARN] database - Token expired or missing
+[2025-08-07T00:32:26.356] [WARN] webhook-handler - Token expired or missing
+[2025-08-07T00:32:26.360] [ERROR] http - ::1 - - "POST /webhook HTTP/1.1" 401 34 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:33:35.394] [INFO] server - 🚀 HTTPS Server running at https://localhost:3000
+[2025-08-07T00:33:37.961] [WARN] database - Token expired or missing
+[2025-08-07T00:33:37.962] [WARN] webhook-handler - Token expired or missing
+[2025-08-07T00:33:37.966] [ERROR] http - ::1 - - "POST /webhook HTTP/1.1" 401 34 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:33:49.908] [INFO] http - ::1 - - "GET /login HTTP/1.1" 200 3103 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:34:57.928] [INFO] server - 🚀 HTTPS Server running at https://localhost:3000
+[2025-08-07T00:35:01.524] [WARN] database - Token expired or missing
+[2025-08-07T00:35:01.525] [WARN] webhook-handler - Token expired or missing
+[2025-08-07T00:35:01.529] [ERROR] http - ::1 - - "POST /webhook HTTP/1.1" 401 34 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:35:35.625] [INFO] server - 🚀 HTTPS Server running at https://localhost:3000
+[2025-08-07T00:35:38.610] [WARN] database - Token expired or missing
+[2025-08-07T00:35:38.611] [WARN] webhook-handler - Token expired or missing
+[2025-08-07T00:35:38.615] [ERROR] http - ::1 - - "POST /webhook HTTP/1.1" 401 34 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:36:14.498] [INFO] server - 🚀 HTTPS Server running at https://localhost:3000
+[2025-08-07T00:36:16.746] [WARN] database - Token expired or missing
+[2025-08-07T00:36:16.747] [WARN] webhook-handler - Token expired or missing
+[2025-08-07T00:36:16.751] [ERROR] http - ::1 - - "POST /webhook HTTP/1.1" 401 34 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:37:05.082] [INFO] server - 🚀 HTTPS Server running at https://localhost:3000
+[2025-08-07T00:37:09.306] [WARN] database - Token expired or missing
+[2025-08-07T00:37:09.307] [WARN] webhook-handler - Token expired or missing
+[2025-08-07T00:37:09.311] [ERROR] http - ::1 - - "POST /webhook HTTP/1.1" 401 34 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:37:40.195] [INFO] server - 🚀 HTTPS Server running at https://localhost:3000
+[2025-08-07T00:37:42.095] [WARN] database - Token expired or missing
+[2025-08-07T00:37:42.096] [WARN] webhook-handler - Token expired or missing
+[2025-08-07T00:37:42.100] [ERROR] http - ::1 - - "POST /webhook HTTP/1.1" 401 34 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:38:24.948] [INFO] server - 🚀 HTTPS Server running at https://localhost:3000
+[2025-08-07T00:38:27.404] [WARN] database - Token expired or missing 1
+[2025-08-07T00:38:27.404] [WARN] webhook-handler - Token expired or missing 2
+[2025-08-07T00:38:27.408] [ERROR] http - ::1 - - "POST /webhook HTTP/1.1" 401 34 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:38:54.700] [INFO] server - 🚀 HTTPS Server running at https://localhost:3000
+[2025-08-07T00:38:56.330] [WARN] webhook-handler - Token expired or missing
+[2025-08-07T00:38:56.334] [ERROR] http - ::1 - - "POST /webhook HTTP/1.1" 401 34 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:39:20.942] [INFO] server - 🚀 HTTPS Server running at https://localhost:3000
+[2025-08-07T00:39:22.152] [WARN] webhook-handler - Token expired or missing
+[2025-08-07T00:39:22.155] [ERROR] http - ::1 - - "POST /webhook HTTP/1.1" 401 34 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:39:43.274] [INFO] server - 🚀 HTTPS Server running at https://localhost:3000
+[2025-08-07T00:39:45.876] [WARN] webhook-handler - Token expired or missing
+[2025-08-07T00:39:45.880] [ERROR] http - ::1 - - "POST /webhook HTTP/1.1" 401 34 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:41:18.812] [INFO] server - 🚀 HTTPS Server running at https://localhost:3000
+[2025-08-07T00:41:20.496] [INFO] webhook-handler - Placing order: {
+  symbol: 'STB',
+  side: 'NB',
+  orderType: 'LO',
+  price: 0,
+  quantity: 2,
+  accountNo: '0003286190',
+  tradingToken: '62172ee3-a'
+}
+[2025-08-07T00:41:20.649] [ERROR] webhook-handler - Error placing order: {
+  status: 400,
+  code: 'INVALID_INPUT',
+  message: 'loanPackageId is required'
+}
+[2025-08-07T00:41:20.653] [ERROR] http - ::1 - - "POST /webhook HTTP/1.1" 500 19 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:43:18.703] [INFO] webhook-handler - Placing order: {
+  symbol: 'STB',
+  side: 'NB',
+  orderType: 'LO',
+  price: 0,
+  quantity: 2,
+  accountNo: '0003286190',
+  tradingToken: '62172ee3-a'
+}
+[2025-08-07T00:43:18.807] [ERROR] webhook-handler - Error placing order: {
+  status: 400,
+  code: 'INVALID_INPUT',
+  message: 'loanPackageId is required'
+}
+[2025-08-07T00:43:18.809] [ERROR] http - ::1 - - "POST /webhook HTTP/1.1" 500 19 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:43:27.767] [INFO] server - 🚀 HTTPS Server running at https://localhost:3000
+[2025-08-07T00:44:02.711] [INFO] webhook-handler - Placing order: {
+  symbol: 'STB',
+  side: 'NB',
+  orderType: 'LO',
+  price: 0,
+  quantity: 2,
+  loanPackageId: 12345,
+  accountNo: '0003286190',
+  tradingToken: '62172ee3-a'
+}
+[2025-08-07T00:44:02.857] [ERROR] webhook-handler - Error placing order: {
+  status: 400,
+  code: 'PRICE_MUST_GREATER_THAN_OR_EQUAL_TO_FLOOR_PRICE',
+  message: 'Price must be greater than or equal to floor price'
+}
+[2025-08-07T00:44:02.862] [ERROR] http - ::1 - - "POST /webhook HTTP/1.1" 500 19 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:45:51.002] [INFO] server - 🚀 HTTPS Server running at https://localhost:3000
+[2025-08-07T00:45:52.572] [INFO] webhook-handler - Placing order: {
+  symbol: 'STB',
+  side: 'NB',
+  orderType: 'LO',
+  price: 0,
+  quantity: 2,
+  loanPackageId: 12345,
+  accountNo: '0003286190',
+  tradingToken: '62172ee3-a'
+}
+[2025-08-07T00:45:52.711] [ERROR] webhook-handler - Error placing order: {
+  status: 400,
+  code: 'PRICE_MUST_GREATER_THAN_OR_EQUAL_TO_FLOOR_PRICE',
+  message: 'Price must be greater than or equal to floor price'
+}
+[2025-08-07T00:46:06.550] [INFO] server - 🚀 HTTPS Server running at https://localhost:3000
+[2025-08-07T00:46:11.644] [INFO] webhook-handler - Placing order: {
+  symbol: 'STB',
+  side: 'NB',
+  orderType: 'LO',
+  price: 0,
+  quantity: 2,
+  loanPackageId: 12345,
+  accountNo: '0003286190',
+  tradingToken: '62172ee3-a'
+}
+[2025-08-07T00:46:11.796] [ERROR] webhook-handler - Error placing order: {
+  status: 400,
+  code: 'PRICE_MUST_GREATER_THAN_OR_EQUAL_TO_FLOOR_PRICE',
+  message: 'Price must be greater than or equal to floor price'
+}
+[2025-08-07T00:46:11.805] [ERROR] http - ::1 - - "POST /webhook HTTP/1.1" 500 153 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:46:40.693] [INFO] server - 🚀 HTTPS Server running at https://localhost:3000
+[2025-08-07T00:46:45.844] [INFO] webhook-handler - Placing order: {
+  symbol: 'STB',
+  side: 'NB',
+  orderType: 'LO',
+  price: 0,
+  quantity: 2,
+  loanPackageId: 12345,
+  accountNo: '0003286190',
+  tradingToken: '62172ee3-a'
+}
+[2025-08-07T00:46:45.975] [ERROR] webhook-handler - Error placing order: {
+  status: 400,
+  code: 'PRICE_MUST_GREATER_THAN_OR_EQUAL_TO_FLOOR_PRICE',
+  message: 'Price must be greater than or equal to floor price'
+}
+[2025-08-07T00:46:45.979] [ERROR] http - ::1 - - "POST /webhook HTTP/1.1" 500 155 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:58:19.500] [INFO] server - 🚀 HTTPS Server running at https://localhost:3000
+[2025-08-07T00:58:22.787] [INFO] http - ::1 - - "GET /login HTTP/1.1" 200 3095 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:58:22.799] [ERROR] http - ::1 - - "GET /favicon.ico HTTP/1.1" 404 150 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:58:23.926] [WARN] http - ::1 - - "GET /logout HTTP/1.1" 302 35 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:58:23.966] [INFO] http - ::1 - - "GET /login HTTP/1.1" 200 7971 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:58:26.256] [INFO] http - ::1 - - "GET /login HTTP/1.1" 200 7971 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:58:42.347] [INFO] database - JWT saved successfully for session: e1328666180e3e044c9e404619149321
+[2025-08-07T00:58:42.351] [INFO] http - ::1 - - "POST /auth/login HTTP/1.1" 200 63 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:58:51.196] [INFO] database - Trading token saved successfully for session: e1328666180e3e044c9e404619149321
+[2025-08-07T00:58:51.199] [INFO] http - ::1 - - "POST /auth/verify-otp HTTP/1.1" 200 63 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T00:58:52.220] [INFO] http - ::1 - - "GET /login HTTP/1.1" 200 3095 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T01:03:25.235] [INFO] http - ::1 - - "GET /testForm HTTP/1.1" 200 1743 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-08-07T01:03:31.049] [INFO] webhook-handler - Placing order: {
+  symbol: 'STB',
+  side: 'NB',
+  orderType: 'LO',
+  price: 0,
+  quantity: 2,
+  loanPackageId: 12345,
+  accountNo: '0003286190',
+  tradingToken: '7caf25d0-9'
+}
+[2025-08-07T01:03:31.191] [ERROR] webhook-handler - Error placing order: {
+  status: 400,
+  code: 'PRICE_MUST_GREATER_THAN_OR_EQUAL_TO_FLOOR_PRICE',
+  message: 'Price must be greater than or equal to floor price'
+}
+[2025-08-07T01:03:31.194] [ERROR] http - ::1 - - "POST /webhook HTTP/1.1" 500 155 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
